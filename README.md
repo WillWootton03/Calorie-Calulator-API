@@ -31,4 +31,8 @@ weekly_check: Works with daily_checkin, and is called if the entry is divisible 
 ********
 # Use
 This is a key component to my activity-app and will serve as the basis for user creation and real progress. It will need to be slightly altered when implementing with my app, however the majority
+<<<<<<< HEAD
 of its functionality works well and will be used in my app.
+=======
+of its functionality works well and will be used in my app.
+>>>>>>> fe6d0216549662bcfb2a5aa69ac025edbe4b95b1
